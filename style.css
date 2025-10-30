@@ -382,7 +382,6 @@ footer a:hover {
   }
 }
 
-
 @media (max-width: 768px) {
   #home {
     padding-top: 110px;
@@ -399,4 +398,3 @@ footer a:hover {
     padding: 5px 8px;
   }
 }
-
