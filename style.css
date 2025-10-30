@@ -382,18 +382,21 @@ footer a:hover {
   }
 }
 
-@media (max-width: 480px) {
-  #home img {
-    width: 110px;
-    height: 110px;
+
+@media (max-width: 768px) {
+  #home {
+    padding-top: 110px;
   }
 
   nav {
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 0.95rem;
   }
 
-  #home div a {
-    padding: 8px 18px;
+  nav a {
+    padding: 5px 8px;
   }
 }
+
