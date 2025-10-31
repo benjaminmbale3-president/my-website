@@ -392,7 +392,6 @@ footer a:hover {
     flex-wrap: wrap;
     gap: 8px;
     font-size: 0.85rem;
-    align-items: center;
     scroll-padding-top: 60px;
   }
 
@@ -400,6 +399,7 @@ footer a:hover {
     padding: 2px 4px;
   }
 }
+
 
 
 
