@@ -391,15 +391,16 @@ footer a:hover {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 8px;
-    padding: 2px 0;
     font-size: 0.85rem;
     align-items: center;
+    scroll-padding-top: 60px;
   }
 
   nav a {
     padding: 2px 4px;
   }
 }
+
 
 
 
