@@ -384,20 +384,23 @@ footer a:hover {
 
 @media (max-width: 768px) {
   #home {
-    padding-top: 110px;
+    padding-top: 70px;
   }
 
   nav {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 8px;
+    padding: 2px 0;
     font-size: 0.85rem;
+    align-items: center;
   }
 
   nav a {
-    padding: 3px 5px;
+    padding: 2px 4px;
   }
 }
+
 
 
 
