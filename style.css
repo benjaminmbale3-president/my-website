@@ -400,15 +400,15 @@ footer a:hover {
   }
 }
 
-/* === FIX FOR CONTENT HIDING BEHIND NAVBAR === */
 section {
-  padding-top: 100px;
-  scroll-margin-top: 100px;
+  padding-top: 80px;
+  scroll-margin-top: 80px;
 }
 
 @media (max-width: 768px) {
   section {
-    padding-top: 120px;
-    scroll-margin-top: 120px;
+    padding-top: 100px;
+    scroll-margin-top: 80px;
   }
 }
+
