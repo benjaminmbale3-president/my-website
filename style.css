@@ -408,9 +408,10 @@ section {
 @media (max-width: 768px) {
   section {
     padding-top: 100px;
-    scroll-margin-top: 5px;
+    scroll-margin-top: 60px;
   }
 }
+
 
 
 
